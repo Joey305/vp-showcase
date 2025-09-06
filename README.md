@@ -64,18 +64,6 @@ For access to backend/private repo, design system, or to build something similar
 
 ---
 
-## 📁 Assets
-
-Place all image assets in a folder named `assets/` at the root of your repository:
-
-| File Name            | Description                        |
-|----------------------|------------------------------------|
-| `hero_vera.png`      | Hero section screenshot            |
-| `services_vera.png`  | Services section screenshot        |
-| `contact_vera.png`   | Contact section screenshot         |
-
----
-
 ## 🧭 License
 
 This showcase is for portfolio/demonstration purposes only. Content is owned by Vera & Portela and may not be reused commercially without permission.
